@@ -114,10 +114,10 @@
 </div>  
   
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-<div align="center">
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31trmbb7h5ewqyawdo3nzoqytgma&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31trmbb7h5ewqyawdo3nzoqytgma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  
-</div>  
+<table>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31trmbb7h5ewqyawdo3nzoqytgma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>
 
 <br/>  
 
