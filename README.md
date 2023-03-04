@@ -114,16 +114,5 @@
 </div>  
   
 
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31trmbb7h5ewqyawdo3nzoqytgma&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31trmbb7h5ewqyawdo3nzoqytgma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Discord Account: **Vezir Oni Developer#0001**</div>
