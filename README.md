@@ -111,7 +111,9 @@
 <img src="https://komarev.com/ghpvc/?username=vezironideveloper&&style=flat-square" align="center" />
 </div>  
   
-## Spotify Listening
+  ----
+  
+## Github Stats
   
 <table>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31trmbb7h5ewqyawdo3nzoqytgma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
@@ -127,4 +129,4 @@
 
 <br />
 
-----
+
