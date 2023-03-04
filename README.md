@@ -94,12 +94,14 @@
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=VezirOniDeveloper&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-  </td>
 
-<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=VezirOniDeveloper&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VezirOniDeveloper&hide_border=true&layout=compact" align="left" style="width: 100%" />
-  </td>
+
+</td></tr></table>  
 
 <br/>  
 
@@ -108,17 +110,11 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vezironideveloper&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
   
-  ----
-  
-## Github Stats
-  
-<table>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31trmbb7h5ewqyawdo3nzoqytgma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-<br/>
+![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31trmbb7h5ewqyawdo3nzoqytgma&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31trmbb7h5ewqyawdo3nzoqytgma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  
 
 <br/>  
 
@@ -129,4 +125,5 @@
 
 <br />
 
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
