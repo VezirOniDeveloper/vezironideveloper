@@ -115,4 +115,4 @@
   
 
 ----
-<div align="center">Discord Account: **Vezir Oni Developer#0001**</div>
+<div align="center">Discord Account: Vezir Oni Developer#0001</div>
